@@ -1,0 +1,1 @@
+print(isinstance(12,(str,float)))
